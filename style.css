@@ -28,7 +28,10 @@ a:active, .question-link:active {
   border-radius: 10px;
   box-shadow: 0px 4px;
 }
-
+.answer:hover {
+  background-color: #C0D6DF;
+  color: #ffffff;
+}
 .answer:active{
   margin-top: 24px;
   margin-bottom: 16px;
